@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Max. I am a rising Junior from the UK currently studying abroad at UNC Chapel Hill for both the fall and spring semester. I'm interested in making machine learning systems more efficient. I focus on optimizing neural networks to run faster while maintaining accuracy, particularly through model compression, pruning, and GPU optimization.
+My name is Max. I am a rising Junior from the UK currently studying abroad at UNC Chapel Hill for both the fall and spring semester. I'm interested in making machine learning systems and infrastructure. I find optimising machine learning systems like neural networks and edge ml really rewarding and look forward to working on this in the future.
 
 Currently, I am working on managing 4 classes at once while also doing undergrad research in Reinforcement Learning before starting on a new project but I hope to start on some ideas soon. In my free time, I like to read, listen to podcasts and snowboard though I dont get much of a chance with snowboarding anymore because of where I go to school!
