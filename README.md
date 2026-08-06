@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! 
 
 <!--
 **maxwellalexander1/maxwellalexander1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Max. I am a rising Junior from the UK currently studying abroad at UNC Chapel Hill for both the fall and spring semester. I'm interested in making machine learning systems more efficient. I focus on optimizing neural networks to run faster while maintaining accuracy, particularly through model compression, pruning, and GPU optimization.
+
+Currently, I am working on managing 4 classes at once while also doing undergrad research in Reinforcement Learning before starting on a new project but I hope to start on some ideas soon. In my free time, I like to read, listen to podcasts and snowboard though I dont get much of a chance with snowboarding anymore because of where I go to school!
