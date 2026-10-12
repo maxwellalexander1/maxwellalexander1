@@ -1,7 +1,7 @@
 ## Hi!
 
-My name is Max. I'm a rising junior from the UK, currently at UNC Chapel Hill studying CS on a year abroad. My main interests are machine learning, systems, and infrastructure.
+I’m Max, a junior from the UK, currently at UNC Chapel Hill on a year abroad from Lancaster University, studying CS. My main interests are machine learning, systems, and robotics.
 
-Right now I'm taking classes in areas like formal languages, computer architecture, and robotics, while working on [TinyBorg](https://github.com/maxwellalexander1/tinyborg), my current spare-time project, a miniature version of Google's internal cluster scheduler, built in C++ and gRPC.
+This semester I’m taking formal languages, computer organization, and robotics. Outside of class, I’m planning to build a robot arm to get into vision-language-action (VLA) robotics.
 
-In my free time I like to write horror stories, play a lot of competitive video games, and mess around with electronics and various computer parts.
+In my free time I write horror stories, play a lot of competitive video games, and mess around with electronics and computer parts.
